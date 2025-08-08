@@ -1,5 +1,5 @@
 # BERT_grader
-BERT model for automatic grading as it relates to the paper:
+BERT model for automatic grading described in the paper:
 Automatic Patient Note Assessment without Strong Supervision.  
 Jianing Zhou, Vyom Thakkar, Rachel Yudkowsky, Suma Bhat, William F. Bond.  
 The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP'22), LOUHI, 2022
